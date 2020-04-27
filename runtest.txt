@@ -1,0 +1,32 @@
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 1
+Enter a new member's info.
+name > haha
+gender >man
+job > ge
+score > 23
+6. '[haha]''s data generated!
+
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 4
+Enter a name > haha
+Enter a updated info
+gender > mab
+job > ef
+score > 333
+run function 'rank_user' to update your grade!
+6.haha's data updated!
+
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 2
+Enter a name > haha
+[user info]
+Name: haha
+gender: mab
+job: ef
+score: 333
+rank: 
+group: 
+
+Choose Menu: 0.load user datas 1.create user 2. read user 3. delete user 4. update user 5. rank user 6.ranking
+7. make group 8. join group 9. save group score 10. show all users 11.save all users 12.Quit >> 12
